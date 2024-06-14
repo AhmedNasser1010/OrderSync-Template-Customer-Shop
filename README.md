@@ -1,1 +1,1 @@
-# Orders Test App For OrderSync
+# OrderSync Template Customer Shop
